@@ -1,0 +1,12 @@
+.playground__item {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  cursor: pointer;
+  font-size: 150px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 100;
+}
